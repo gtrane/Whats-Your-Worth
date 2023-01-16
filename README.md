@@ -1,8 +1,8 @@
 # Whats-Your-Worth?
 Data visualization in Tableau, final project
 Relevant files:
-FinalReport_Trane.docx
-infovizFinal.twbx
+- FinalReport_Trane.docx
+- infovizFinal.twbx
 
 I utilized advanced Tableau techniques in order to visualize the current wage gap in the United States, and specifically Iowa. I analyzed U.S. Census Bureau datasets from 2017 - 2021 on median earnings by occupation and sex for the full-time, year-round, civilian employed population 16 years and over as documented in Table S2412, as well as 2017 - 2021 datasets on sex by educational attainment representative of the population 25 years and over as documented in Table B15002. 
 
