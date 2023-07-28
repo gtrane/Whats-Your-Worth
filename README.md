@@ -1,7 +1,7 @@
 # Whats-Your-Worth?
 Data visualization in Tableau, final project
 
-#### Relevant files:
+#### Relevant files
 - FinalReport_Trane.docx
 - infovizFinal.twbx
 
