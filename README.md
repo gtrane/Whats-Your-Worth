@@ -1,4 +1,4 @@
-# Whats-Your-Worth?
+# Whats Your Worth?
 To view my final storyboard, navigate to https://public.tableau.com/app/profile/grace.trane/viz/WhatsYourWorth_16916048364250/Story1
 
 #### Key Takeaways
